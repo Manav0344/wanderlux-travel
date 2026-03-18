@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wanderlux-travel/static/css/main.58ed7957.css",
+    "main.js": "/wanderlux-travel/static/js/main.99606afc.js",
+    "index.html": "/wanderlux-travel/index.html",
+    "main.58ed7957.css.map": "/wanderlux-travel/static/css/main.58ed7957.css.map",
+    "main.99606afc.js.map": "/wanderlux-travel/static/js/main.99606afc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ed7957.css",
+    "static/js/main.99606afc.js"
+  ]
+}

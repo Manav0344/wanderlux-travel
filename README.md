@@ -1,5 +1,8 @@
 # WanderLux Travel Website
 
+## Live Demo : https://manav0344.github.io/wanderlux-travel/
+
+
 A **full-featured luxury travel website** built with React, React Router, and Tailwind CSS.  
 Dark/light theme · Animated counters · Interactive Trip Planner · Search overlay · Wishlist · Booking modal · Cookie banner · Photo lightbox · 10 pages.
 

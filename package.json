@@ -1,5 +1,6 @@
 {
   "name": "travel-website",
+  "homepage": "https://Manav0344.github.io/wanderlux-travel",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -8,12 +9,12 @@
     "react-dom": "^18.2.0",
     "react-lazy-load-image-component": "^1.6.0",
     "react-router-dom": "^6.22.0",
-    "react-scripts": "5.0.1",
-    "https://Manav0344.github.io/wanderlux-travel": "1.0.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "dev": "react-scripts start",
     "build": "react-scripts build"
   },
   "browserslist": {
